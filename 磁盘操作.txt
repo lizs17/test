@@ -2,3 +2,5 @@ df -lh
 fdisk -l
 
 增加了新的内容
+
+增加了内容，用desktop fetch到本地
