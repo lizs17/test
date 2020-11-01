@@ -1,0 +1,2 @@
+df -lh
+fdisk -l
